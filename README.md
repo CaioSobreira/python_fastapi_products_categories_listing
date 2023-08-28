@@ -3,7 +3,7 @@ Python API that manages products and categories
 
 Python FASTAPI project developed from Udemy course https://www.udemy.com/course/fastapi-avancado-2023-2-projetos-tdd-postgresql
 
-In this course the following technologies/techniques were used:
+In this project the following technologies/techniques were used:
 ##### Python
 ##### FastAPI
 ##### Docker / Docker compose
