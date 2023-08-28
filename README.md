@@ -10,3 +10,5 @@ In this project the following technologies/techniques were used:
 ##### TDD with Pytest
 ##### Postgres
 ##### Alembic for DB schema migrations
+##### User authentication
+##### Pagination
